@@ -1,0 +1,3 @@
+targets:
+  ubuntu-18.04:
+buildpack: https://github.com/AdmitHub/meteor-buildpack-horse
